@@ -1,4 +1,4 @@
-### Hi there, I'm Igor Sokolov 🙋🏻‍♂️
+### Hi there, I'm Igor Sokolov 🙋🏻‍♂️ Welcome to my Github account!
 
 <!--
 **IgorSokolovDE/IgorSokolovDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
